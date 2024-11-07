@@ -1,0 +1,32 @@
+/* 
+Theme Name: Mon Thème
+Theme URI: http://example.com/mon-theme
+Author: Votre Nom
+Author URI: http://example.com
+Description: Un thème WordPress de base avec page d'accueil, page d'article et menu.
+Version: 1.0
+License: GPL-2.0-or-later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mon-theme
+*/
+
+/* Ajouter ici vos styles CSS */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
